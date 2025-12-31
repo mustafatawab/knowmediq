@@ -50,14 +50,14 @@ function App() {
 
                 {/* Main Image Container */}
                 <div className="relative z-10 w-[90%] flex flex-col items-center mr-8">
-                  <div className="rounded-4xl overflow-hidden shadow-2xl aspect-4/3 w-full mb-6">
+                  <div className="rounded-2xl overflow-hidden shadow-2xl w-full mb-6 bg-gray-50">
                     <video
                       src="/knowmediq.mp4"
                       autoPlay
                       muted
                       loop
                       playsInline
-                      className="aspect-video object-cover shrink-0"
+                      className="w-full h-auto block"
                     />
                   </div>
 
