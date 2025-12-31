@@ -581,7 +581,7 @@ function App() {
                   ></textarea>
                 </div>
                 <div className="md:col-span-2 mt-4 text-center">
-                  <button className="bg-secondary hover:bg-blue-700 text-white px-12 py-4 rounded-full font-bold text-lg shadow-lg hover:shadow-xl transition-all transform hover:-translate-y-1 w-full md:w-auto">
+                  <button className="bg-secondary cursor-pointer text-white px-12 py-4 rounded-full font-bold text-lg shadow-lg hover:shadow-xl transition-all transform hover:-translate-y-1 w-full md:w-auto duration-300">
                     Submit Request
                   </button>
                 </div>
