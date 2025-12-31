@@ -15,7 +15,7 @@ function App() {
               <div className="lg:col-span-5 text-center lg:text-left z-10">
                 <h1 className="text-4xl sm:text-5xl lg:text-[2.75rem] font-bold tracking-tight text-dark mb-6 leading-[1.2]">
                   A Connected AI Ecosystem <br /> for
-                  <span className="text-primary">High-Impact Care</span>
+                  <span className="text-primary"> High-Impact Care</span>
                 </h1>
                 <p className="text-gray-500 mb-8 leading-relaxed max-w-lg mx-auto lg:mx-0">
                   KnowMediQ bridges the gap between the clinic and the home. Our
