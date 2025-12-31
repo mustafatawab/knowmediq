@@ -51,10 +51,13 @@ function App() {
                 {/* Main Image Container */}
                 <div className="relative z-10 w-[90%] flex flex-col items-center mr-8">
                   <div className="rounded-4xl overflow-hidden shadow-2xl aspect-4/3 w-full mb-6">
-                    <img
-                      src="https://img.freepik.com/free-photo/doctor-consulting-patient-clinic_23-2148854033.jpg"
-                      alt="Doctor consulting patient in office"
-                      className="w-full h-full object-cover"
+                    <video
+                      src="/knowmediq.mp4"
+                      autoPlay
+                      muted
+                      loop
+                      playsInline
+                      className="w-full h-full object-cover shrink-0"
                     />
                   </div>
 
