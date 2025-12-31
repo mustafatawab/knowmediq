@@ -363,9 +363,13 @@ function App() {
         <section className="py-24 bg-white relative overflow-hidden">
           <div className="max-w-7xl mx-auto px-4 relative z-10">
             <div className="text-center max-w-3xl mx-auto mb-16">
-              <span className="text-secondary font-bold uppercase tracking-widest text-sm mb-4 block">
-                For Family Caregivers
-              </span>
+              <div className="flex items-center justify-center gap-4 mb-4">
+                <div className="h-0.5 w-12 bg-secondary"></div>
+                <span className="text-secondary font-bold text-sm tracking-widest uppercase">
+                  For Family Caregivers
+                </span>
+                <div className="h-0.5 w-12 bg-secondary"></div>
+              </div>
               <h2 className="text-4xl lg:text-5xl font-bold text-dark mb-6">
                 One Ecosystem. <br /> Total Coordination.
               </h2>
