@@ -38,7 +38,7 @@ function App() {
                     Empower Your Caregiving Journey
                   </a>
                 </div>
-                <p className="mt-8 text-sm text-gray-500 font-medium">
+                <p className="mt-8 text-lg text-gray-600 font-medium italic">
                   Empowering continuity of care through cultural intelligence.
                 </p>
               </div>
